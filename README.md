@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Deep Learning & Embedded Software & Robotics  
 - 🌱 I’m currently learning SLAM &  ROS Navigation Stack
-- 💻 I'm currently working for GKD GKD-Robotics-Lab
+- 💻 I'm currently working for GKD-Robotics-Lab
 - 📫 How to reach me: QQ:1625817690 email: shuxy6263@163.com
 
 
