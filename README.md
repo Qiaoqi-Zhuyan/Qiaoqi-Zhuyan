@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Xiangyu Shu, an undergraduate from Southwest University.
 <!--
 **Qiaoqi-Zhuyan/Qiaoqi-Zhuyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
