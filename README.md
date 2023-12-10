@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Deep Learning & Embedded Software & Robotics  
+- 🔭 I’m currently working on Deep Learning & Embedded Software  
 - 🌱 I’m currently learning SLAM &  ROS Navigation Stack
 - 🦾 My main programming languages are: C++, Python
 - 💻 I'm currently working for GKD-Robotics-Lab
