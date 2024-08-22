@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Deep Learning & Database system
+- 🔭 I’m currently working on Date Mining & Database system
 <!-- -🌱 I’m currently learning SLAM &  ROS Navigation Stack -->
 - 🦾 My main programming languages are: Python, C++
 <!-- - 💻 I'm currently working for GKD-Robotics-Lab -->
