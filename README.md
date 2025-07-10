@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Quantization & AIGC
+- 🔭 I’m currently working on Model Compress Quantization & AIGC 
 <!-- -🌱 I’m currently learning SLAM &  ROS Navigation Stack -->
 - 🦾 My main programming languages are: Python, golang
 <!-- - 💻 I'm currently working for GKD-Robotics-Lab -->
