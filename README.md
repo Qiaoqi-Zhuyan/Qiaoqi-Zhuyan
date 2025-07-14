@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Xiangyu Shu, M.S in South China University of Technology.
+### I'm Xiangyu Shu, Phd in South China University of Technology.
 <!--
 **Qiaoqi-Zhuyan/Qiaoqi-Zhuyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
